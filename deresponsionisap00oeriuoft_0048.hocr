@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./deresponsionisap00oeriuoft_0048.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2723 1293 2911 2760">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2723 1293 2911 2760">
+     <span class='ocr_line' id='line_1_1' title="bbox 2836 2313 2911 2760; baseline -55.875 -55.875"><span class='ocrx_word' id='word_1_1' title='bbox 2836 2313 2911 2760; x_wconf 62' lang='lat' dir='ltr'><strong>&#39;E</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 2723 1293 2902 2319; baseline 477.5 -5801"><span class='ocrx_word' id='word_1_2' title='bbox 2723 1293 2902 2319; x_wconf 81' lang='grc' dir='ltr'><strong>-.ΙΙΙ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2687 3208 2709 4358">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2687 3208 2709 4358">
+     <span class='ocr_line' id='line_1_3' title="bbox 2687 3208 2709 4358; baseline -191.667 0"><span class='ocrx_word' id='word_1_3' title='bbox 2693 3208 2697 3218; x_wconf 73' lang='lat'><em>1</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2693 3239 2698 3266; x_wconf 72' lang='grc' dir='ltr'><strong>ιι</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 2693 3291 2698 3299; x_wconf 83' lang='grc'><em>.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2693 3307 2699 3338; x_wconf 79' lang='grc' dir='ltr'><strong>ιο,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 2692 3345 2699 3368; x_wconf 72' lang='lat'><em>0</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 2692 3379 2698 3474; x_wconf 54' lang='grc' dir='ltr'><strong>ἲὶοΙΙ</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2687 3483 2709 4358; x_wconf 59' lang='grc' dir='ltr'><strong>ΙΙιΙΙῦΙΙΥΙΙΙθΏΙιΙιιιιιι..ξιο.ΙιΙΙΙιὶῖ-ιοιι.ίῐειι</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2651 4332 2670 4339">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2651 4332 2670 4339">
+     <span class='ocr_line' id='line_1_4' title="bbox 2651 4332 2670 4339"><span class='ocrx_word' id='word_1_10' title='bbox 2651 4332 2670 4339; x_wconf 45' lang='lat'><em>2</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2567 4331 2646 4349">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2567 4331 2646 4349">
+     <span class='ocr_line' id='line_1_5' title="bbox 2567 4331 2646 4349; baseline 4.5 -18"><span class='ocrx_word' id='word_1_11' title='bbox 2567 4331 2646 4349; x_wconf 40' lang='lat' dir='ltr'><strong>W,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 2615 3700 2642 3717">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 2615 3700 2642 3717">
+     <span class='ocr_line' id='line_1_6' title="bbox 2615 3700 2642 3717"><span class='ocrx_word' id='word_1_12' title='bbox 2615 3700 2642 3717; x_wconf 68' lang='grc' dir='ltr'>ν</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 2912 4368">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 2912 4368">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 2912 4368"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 2912 4368; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
